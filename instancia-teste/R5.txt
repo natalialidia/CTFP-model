@@ -1,3 +1,3 @@
 2 //quantidade de equipes necessárias (matriz equipe X habilidade) - quantas habilidades para cada equipe
-10.0	10.0	10.0	10.0	10.0
-10.0	10.0	10.0	10.0	10.0
+10	10	10	10	10
+10	10	10	10	10
